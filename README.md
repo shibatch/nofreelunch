@@ -5,8 +5,7 @@ Version 0.6, 2024-07-07
 
 Copyright Naoki Shibata 2024.
 
-This document is licensed under CC BY-SA 4.0.
-https://creativecommons.org/licenses/by-sa/4.0/
+This document is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
 ## What is it?
@@ -28,7 +27,7 @@ features.
 ## How can I use it in my project?
 
 Please copy CODE_OF_CONDUCT.md into the root directory of your project.
-It is distributed under CC BY-SA 4.0.
+It is distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
 ## Introduction
@@ -228,12 +227,14 @@ that provide the above services would start to emerge.
 
 ## Conclusion
 
+GTEFR is community guidelines with the following features.
+
 * The guidelines are not legally binding, but are positioned as a soft
   rule that would be a bit uncool if violated.
 * Adopting these guidelines will make it clear that the project is
   requesting financial support.
-* Facilitate the creation of an infrastructure for the distribution of
-  funds.
+* By adopting the guidelines, the project can facilitate the creation
+  of an infrastructure for the distribution of funds.
 
 
 ## References
