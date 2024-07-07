@@ -1,7 +1,7 @@
 
 # The Community Guidelines to Ensure Fair Rewards for OSS Projects
 
-Version 0.6, 2024-07-07
+Version 0.7, 2024-07-07
 
 Copyright Naoki Shibata 2024.
 
