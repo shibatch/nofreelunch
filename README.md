@@ -15,7 +15,7 @@ code of conduct for OSS projects. The guidelines have the following
 features.
 
 * The guidelines aim to alleviate burnout problems for OSS developers.
-* The guidelines include portions of the existing code of conduct, but
+* The guidelines include portions of the existing codes of conduct, but
   written to be as objective as possible concerning the criteria for
   identifying violations.
 * Clearly states the positioning, that it is non-binding, and that it
@@ -26,8 +26,10 @@ features.
 
 ## How can I use it in my project?
 
-Please copy CODE_OF_CONDUCT.md into the root directory of your project.
-It is distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Please copy
+[CODE_OF_CONDUCT.md](https://github.com/shibatch/gtefr?tab=coc-ov-file)
+into the root directory of your project.  It is distributed under
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
 ## Introduction
@@ -42,7 +44,7 @@ A code of conduct is a set of rules that defines the normative
 behavior and responsibilities of individuals, parties, and
 groups. Typically, they are created for employees of a company in
 order to protect the company and to inform employees of the company's
-expectations. In general, the code of conduct in OSS projects states
+expectations. In general, codes of conduct in OSS projects state
 the following items [1][2].
 
 * Respect and welcome diversity.
@@ -54,7 +56,7 @@ the following items [1][2].
   usually have the authority to determine appropriate action.
 
 
-## Problems with existing code of conduct
+## Problems with existing codes of conduct
 
 However, the issues addressed by these codes of conduct are not
 novel. Rather, they are long-standing concerns that have been present
@@ -101,11 +103,11 @@ project. Even if a member's non-project-related behavior has been
 found by an official agency to be illegal, whether the project should
 take any action in response is a matter for careful deliberation. It
 is the role of the authorities to punish members for illegal behavior,
-not the project maintainers, unless the authorities ask us to do
-something specific. The only thing that members of the project,
-including the maintainers, should do is to preserve evidence and to
-report any ongoing illegal activity related to the project to the
-public authorities.
+not the project maintainers, unless the authorities ask the
+maintainers to do something specific. The only thing that members of
+the project, including the maintainers, should do is to preserve
+evidence and to report any ongoing illegal activity related to the
+project to the public authorities.
 
 If some rules contain penal provisions with ambiguous criteria for
 violation, such provisions can be arbitrarily administered by decision
@@ -128,7 +130,7 @@ extent, rather than adopting a code of conduct whose effectiveness is
 questionable.
 
 Frankly, I cannot help but be surprised that so many prominent OSS
-projects have already adopted such code of conducts that are ambiguous
+projects have already adopted such codes of conduct that are ambiguous
 and of questionable effectiveness.
 
 
@@ -151,7 +153,7 @@ software distribution license alone can be addressed.
 
 The specific problem I am having with my project is what is called the
 burnout of OSS developers [4, 5], and this is not what is written in
-the existing code of conduct, etc. In OSS projects, software needs to
+the existing codes of conduct, etc. In OSS projects, software needs to
 be maintained continuously, and this requires a continuous effort to
 be devoted to the maintenance. This becomes especially evident when
 the software being developed in a project becomes large in scale.
@@ -172,7 +174,7 @@ is software that can be used free of charge, but obviously it does not
 prohibit the return of profits made through the use of OSS. If it
 becomes widely recognized that companies are natural to return a
 portion of the profits earned from the use of OSS to the projects, and
-if companies' code of conduct incorporates financial support for OSS
+if companies' codes of conduct incorporates financial support for OSS
 projects, we can expect to see significant progress toward solving the
 burnout problem. The adoption of the GTEFR by a large number of OSS
 projects will make those companies at least aware of the burnout
@@ -227,7 +229,7 @@ that provide the above services would start to emerge.
 
 ## Conclusion
 
-GTEFR is community guidelines with the following features.
+GTEFR are community guidelines with the following features.
 
 * The guidelines are not legally binding, but are positioned as a soft
   rule that would be a bit uncool if violated.
@@ -244,7 +246,7 @@ conduct in open source projects." 2017 IEEE 24th international
 conference on software analysis, evolution and reengineering
 (SANER). IEEE, 2017.
 
-[2] https://en.wikipedia.org/wiki/Code of conduct
+[2] [https://en.wikipedia.org/wiki/Code of conduct](https://en.wikipedia.org/wiki/Code of conduct)
 
 [3] https://github.com/domgetter/NCoC
 
