@@ -246,7 +246,7 @@ conduct in open source projects." 2017 IEEE 24th international
 conference on software analysis, evolution and reengineering
 (SANER). IEEE, 2017.
 
-[2] [https://en.wikipedia.org/wiki/Code of conduct](https://en.wikipedia.org/wiki/Code of conduct)
+[2] [https://en.wikipedia.org/wiki/Code of conduct](<https://en.wikipedia.org/wiki/Code of conduct>)
 
 [3] https://github.com/domgetter/NCoC
 
