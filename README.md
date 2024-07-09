@@ -229,10 +229,16 @@ that provide the above services would start to emerge.
 
 ## Conclusion
 
-GTEFR are community guidelines with the following features.
+GTEFR is a community guideline aiming to solve the burnout problem of
+OSS developers.
 
 * The guidelines are not legally binding, but are positioned as a soft
   rule that would be a bit uncool if violated.
+* The guidelines solve the burnout problem through the PR effect on
+  the companies. In other words, if a company that makes commercial
+  use of OSS or free software refuses to adopt these guidelines, it
+  would appear to be a declaration of their desire to continue
+  free-riding.
 * Adopting these guidelines will make it clear that the project is
   requesting financial support.
 * By adopting the guidelines, the project can facilitate the creation
