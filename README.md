@@ -27,7 +27,7 @@ features.
 ## How can I use it in my project?
 
 Please copy
-[CODE_OF_CONDUCT.md](https://github.com/shibatch/gtefr?tab=coc-ov-file)
+[CODE_OF_CONDUCT.md](https://github.com/shibatch/nofreelunch?tab=coc-ov-file)
 into the root directory of your project.  It is distributed under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
