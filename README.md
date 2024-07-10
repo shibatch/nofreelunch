@@ -152,7 +152,7 @@ software distribution license alone can be addressed.
 
 
 The specific problem I am having with my project is what is called the
-burnout of OSS developers [4, 5], and this is not what is written in
+burnout of OSS developers [4, 5, 6, 7], and this is not what is written in
 the existing codes of conduct, etc. In OSS projects, software needs to
 be maintained continuously, and this requires a continuous effort to
 be devoted to the maintenance. This becomes especially evident when
@@ -165,20 +165,20 @@ maintaining projects and developing new features much sooner than
 users expect. This may not be a very new problem either, but there is
 no established way to solve it.
 
-The Community Guidelines to Ensure Fair Rewards for OSS Projects
-(GTEFR hereafter) aims to solve the OSS developers' burnout
-problem. It sets the goal of the project members' efforts to promote
-the awareness that if a company makes a profit from the commercial use
-of OSS, a portion of the profit should be returned to the project. OSS
-is software that can be used free of charge, but obviously it does not
-prohibit the return of profits made through the use of OSS. If it
-becomes widely recognized that companies are natural to return a
-portion of the profits earned from the use of OSS to the projects, and
-if companies' codes of conduct incorporates financial support for OSS
-projects, we can expect to see significant progress toward solving the
-burnout problem. The adoption of the GTEFR by a large number of OSS
-projects will make those companies at least aware of the burnout
-problem of OSS developers.
+The Community Guidelines to Ensure Fair Rewards for OSS Projects aim
+to solve the OSS developers' burnout problem. It sets the goal of the
+project members' efforts to promote the awareness that if a company
+makes a profit from the commercial use of OSS, a portion of the profit
+should be returned to the project. OSS is software that can be used
+free of charge, but obviously it does not prohibit the return of
+profits made through the use of OSS. If it becomes widely recognized
+that companies are natural to return a portion of the profits earned
+from the use of OSS to the projects, and if companies' codes of
+conduct incorporates financial support for OSS projects, we can expect
+to see significant progress toward solving the burnout problem. The
+adoption of the guidelines by a large number of OSS projects will make
+those companies at least aware of the burnout problem of OSS
+developers.
 
 
 ## To realize actual profit distribution
@@ -207,20 +207,20 @@ not simple and requires academic research. At first glance, the
 construction of such an evaluation method seems not easy.
 
 I expect that as firms offering the above services emerge and compete
-with each other, the capitalist principle will optimize the criteria
-for the distribution of funds. In this scenario, several firms
-offering the above services will first emerge. Each of these firms
-will implement different objective distribution criteria for funds and
-publish those criteria. The firms will then distribute the funds
-according to this criteria after charging a fee. The OSS project
+with each other, capitalist mechanisms will optimize the criteria for
+the distribution of funds. In this scenario, several firms offering
+the above services will first emerge. Each of these firms will
+implement different distribution criteria for funds and publish those
+criteria. The firms will then start services to distribute the funds
+according to their criteria after charging a fee. Each OSS project
 designates the firm it considers to have the best criteria when it
 receives the funds. Firms that implement better criteria and services
 will earn more fee income as they are used more often. In this way,
-the criteria for distribution of funds are optimized by the capitalism
-mechanism. Also, public disclosure of the amount of support for
-projects by each company using OSS would give a promotional meaning to
-the company's support for OSS projects. This would be expected to
-stimulate more support for OSS projects.
+the criteria for distribution of funds are optimized by capitalism.
+Also, public disclosure of the amount of support for projects by each
+company using OSS would give a promotional meaning to the company's
+support for OSS projects. This would be expected to stimulate more
+support for OSS projects.
 
 In any case, the first step is to make it commonplace that companies
 that use OSS provide financial support to OSS projects. Then, firms
@@ -229,8 +229,9 @@ that provide the above services would start to emerge.
 
 ## Conclusion
 
-GTEFR is a community guideline aiming to solve the burnout problem of
-OSS developers.
+The Community Guidelines to Ensure Fair Rewards for OSS Projects are
+community guidelines aiming to solve the burnout problem of OSS
+developers.
 
 * The guidelines are not legally binding, but are positioned as a soft
   rule that would be a bit uncool if violated.
@@ -259,3 +260,7 @@ conference on software analysis, evolution and reengineering
 [4] https://www.businessinsider.com/open-source-developers-burnout-low-pay-internet-2022-3
 
 [5] https://trstringer.com/oss-compensation-broken/
+
+[6] https://www.vice.com/en/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable
+
+[7] https://staltz.com/software-below-the-poverty-line.html
