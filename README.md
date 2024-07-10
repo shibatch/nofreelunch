@@ -126,8 +126,10 @@ but should seek an official contact outside the project. Also, if a
 project truly values the diversity of its members, it would be more
 constructive to promote the establishment of a consultation service
 for OSS projects by an organization that can be trusted to some
-extent, rather than adopting a code of conduct whose effectiveness is
-questionable.
+extent. There is no guarantee that fair decisions will be made in such
+services, but if trained experts are consulted, better results can be
+expected than relying on novice maintainers. And to hire such experts,
+funds need to be raised.
 
 Frankly, I cannot help but be surprised that so many prominent OSS
 projects have already adopted such codes of conduct that are ambiguous
