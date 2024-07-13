@@ -86,6 +86,18 @@ my project.
     between individuals.
   * There is no guarantee that the maintainers will side with the
     victimized party.
+* These codes make the maintainers bear the cost of ensuring the
+  diversity of the community.
+  * If the person alleging victimization secretly consults with the
+    maintainer, it is often not easy for the maintainer to respond to
+    that consultation. Especially if the claim of victimization is not
+    valid, the maintainer needs to convince the person of this. In
+    some cases, such as when the person suffers from mental illness,
+    professional expertise may be required in order to provide
+    consultation. It is not easy for an untrained maintainer to notice
+    mental illness, but the maintainer may still need to take
+    responsibility for any problems that arise as a result of the
+    consultation.
   * Maintainers have no incentive to take the time to resolve disputes
     between individuals.
 
@@ -129,7 +141,10 @@ for OSS projects by an organization that can be trusted to some
 extent. There is no guarantee that fair decisions will be made in such
 services, but if trained experts are consulted, better results can be
 expected than relying on novice maintainers. And to hire such experts,
-funds need to be raised.
+funds need to be raised. In any case, it is not appropriate to name
+untrained and unpaid maintainers as a consultation contact, but
+rather, it should be clearly stated that maintainers are not a
+consultation contact.
 
 Frankly, I cannot help but be surprised that so many prominent OSS
 projects have already adopted such codes of conduct that are ambiguous
