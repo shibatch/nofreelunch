@@ -90,16 +90,18 @@ my project.
   diversity of the community.
   * If the person alleging victimization secretly consults with the
     maintainer, it is often not easy for the maintainer to respond to
-    that consultation. Especially if the claim of victimization is not
-    valid, the maintainer needs to convince the person of this. If the
-    maintainer inadvertently chooses the wrong words, or even if
-    everything is handled properly, the maintainer could also be
-    accused of being a perpetrator. In some cases, such as when the
-    person suffers from mental illness, professional expertise may be
-    required in order to provide consultation. It is not easy for an
-    untrained maintainer to notice mental illness, but the maintainer
-    may still need to take responsibility for any problems that arise
-    as a result of the consultation.
+    that consultation.
+    * If the claim of victimization is not valid, the maintainer needs
+      to convince the person of this.
+    * If the maintainer inadvertently chooses wrong words, or even if
+      everything is handled properly, the maintainer could also be
+      accused of being a perpetrator.
+    * In some cases, such as when the person suffers from mental
+      illness, professional expertise is required in order to provide
+      appropriate consultation. It is not easy for an untrained
+      maintainer to notice mental illness, but the maintainer may
+      still need to take responsibility for any problems that arise as
+      a result of the consultation.
   * Maintainers have no incentive to take the time to resolve disputes
     between individuals.
 
