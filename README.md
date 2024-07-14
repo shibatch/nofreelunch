@@ -91,7 +91,8 @@ my project.
   * If the person alleging victimization secretly consults with the
     maintainer, it is often not easy for the maintainer to respond to
     that consultation. Especially if the claim of victimization is not
-    valid, the maintainer needs to convince the person of this. In
+    valid, the maintainer needs to convince the person of this, and
+    the maintainer could also be accused of being a perpetrator. In
     some cases, such as when the person suffers from mental illness,
     professional expertise may be required in order to provide
     consultation. It is not easy for an untrained maintainer to notice
@@ -141,10 +142,17 @@ for OSS projects by an organization that can be trusted to some
 extent. There is no guarantee that fair decisions will be made in such
 services, but if trained experts are consulted, better results can be
 expected than relying on novice maintainers. And to hire such experts,
-funds need to be raised. In any case, it is not appropriate to name
-untrained and unpaid maintainers as a consultation contact, but
-rather, it should be clearly stated that maintainers are not a
-consultation contact.
+funds need to be raised.
+
+Even in major media outlets, there are cases where people with
+specialized skills comment on issues outside their field of
+expertise. However, we should be well aware that people with excellent
+specialized skills are novices in fields other than their
+own. Furthermore, we should not ask people with excellent specialized
+skills to do work outside of their field of expertise. It is not
+appropriate to name untrained and unpaid maintainers as a consultation
+contact, but rather, it should be clearly stated that maintainers are
+not a consultation contact.
 
 Frankly, I cannot help but be surprised that so many prominent OSS
 projects have already adopted such codes of conduct that are ambiguous
