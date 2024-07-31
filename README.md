@@ -1,7 +1,7 @@
 
-# The Community Guidelines to Ensure Fair Rewards for OSS Projects
+# Community Guidelines for Sustainability of Open-Source Ecosystem
 
-Version 0.7, 2024-07-07
+Version 0.8, 2024-08-??
 
 Copyright Naoki Shibata 2024.
 
@@ -76,8 +76,8 @@ my project.
 
 * Criteria for identifying violations are not clearly stated.
 * The purpose of presenting such a code is not clearly stated.
-* The consequences for violations are not clearly stated. In practice,
-  all the maintainer can do is to ban the user at best.
+* The only thing the maintainer can do is to ban violators, which is
+  not much of a deterrent to violations.
 * It has a patternalistic nature, and the idea of secretly telling the
   maintainer about the victimization and asking the maintainer to
   resolve it seems terribly childish.
@@ -193,20 +193,20 @@ maintaining projects and developing new features much sooner than
 users expect. This may not be a very new problem either, but there is
 no established way to solve it.
 
-The Community Guidelines to Ensure Fair Rewards for OSS Projects aim
-to solve the OSS developers' burnout problem. It sets the goal of the
-project members' efforts to promote the awareness that if a company
-makes a profit from the commercial use of OSS, a portion of the profit
-should be returned to the project. OSS is software that can be used
-free of charge, but obviously it does not prohibit the return of
-profits made through the use of OSS. If it becomes widely recognized
-that companies are natural to return a portion of the profits earned
-from the use of OSS to the projects, and if companies' codes of
-conduct incorporates financial support for OSS projects, we can expect
-to see significant progress toward solving the burnout problem. The
-adoption of the guidelines by a large number of OSS projects will make
-those companies at least aware of the burnout problem of OSS
-developers.
+The Community Guidelines for Sustainability of Open-Source Ecosystem
+aim to solve the OSS developers' burnout problem. It sets the goal of
+the project members' efforts to promote the awareness that if a
+company makes a profit from the commercial use of OSS, a portion of
+the profit should be returned to the project. OSS is software that can
+be used free of charge, but obviously it does not prohibit the return
+of profits made through the use of OSS. If it becomes widely
+recognized that companies are natural to return a portion of the
+profits earned from the use of OSS to the projects, and if companies'
+codes of conduct incorporates financial support for OSS projects, we
+can expect to see significant progress toward solving the burnout
+problem. The adoption of the guidelines by a large number of OSS
+projects will make those companies at least aware of the burnout
+problem of OSS developers.
 
 
 ## To realize actual profit distribution
@@ -257,21 +257,29 @@ that provide the above services would start to emerge.
 
 ## Conclusion
 
-The Community Guidelines to Ensure Fair Rewards for OSS Projects are
-community guidelines aiming to solve the burnout problem of OSS
+The Community Guidelines for Sustainability of Open-Source Ecosystem
+are community guidelines aiming to solve the burnout problem of OSS
 developers.
 
 * The guidelines are not legally binding, but are positioned as a soft
   rule that would be a bit uncool if violated.
+* Adopting these guidelines will make it clear that the project is
+  requesting financial support.
+* By adopting the guidelines, the project can facilitate the creation
+  of an infrastructure for the distribution of funds.
 * The guidelines solve the burnout problem through the PR effect on
   the companies. In other words, if a company that makes commercial
   use of OSS or free software refuses to adopt these guidelines, it
   would appear to be a declaration of their desire to continue
   free-riding.
-* Adopting these guidelines will make it clear that the project is
-  requesting financial support.
-* By adopting the guidelines, the project can facilitate the creation
-  of an infrastructure for the distribution of funds.
+* We allow our software to be used free of charge for commercial use
+  and make a profit. However, even though our software is available
+  free of charge, its cost never goes away; someone has to bear it.
+
+The OSS ecosystem is built on good will, which cannot be explained by
+legal restraints or the pursuit of profit. It is shameful for
+companies that make a profit from OSS to ignore such good will and
+pursue only their own benefit by claiming only their legal rights.
 
 
 ## References
