@@ -267,16 +267,18 @@ developers.
   requesting financial support.
 * By adopting the guidelines, the project can facilitate the creation
   of an infrastructure for the distribution of funds.
-* The guidelines solve the burnout problem through the PR effect on
-  the companies. In other words, if a company that makes commercial
-  use of OSS or free software refuses to adopt these guidelines, it
-  would appear to be a declaration of their desire to continue
-  free-riding.
-* We allow our software to be used free of charge for commercial use
-  and make a profit. However, even though our software is available
-  free of charge, its cost never goes away; someone has to bear it.
+* The most important point of having these guidelines is that by
+  asking companies whether or not they agree with these guidelines, it
+  is possible to visualize whether or not they intend to continue
+  free-riding on OSS. In other words, if a company that makes
+  commercial use of OSS or free software refuses to adopt these
+  guidelines, it appears to be a declaration of their desire to
+  continue free-riding.
 
-The OSS ecosystem is built on good will, which cannot be explained by
+We allow our software to be used free of charge for commercial use and
+make a profit. However, even though our software is available free of
+charge, its cost never goes away; someone has to bear it. The OSS
+ecosystem is built on good will, which cannot be explained just by
 legal restraints or the pursuit of profit. It is shameful for
 companies that make a profit from OSS to ignore such good will and
 pursue only their own benefit by claiming only their legal rights.

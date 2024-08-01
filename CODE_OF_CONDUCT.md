@@ -78,14 +78,12 @@ be better to pay for it in some cases, even if it is clearly marked
 free of charge. In some cases, companies are making huge profits by
 using OSS and free software. Isn't it strange that it is normal not to
 pay for the use of OSS and free software at all even in such cases?
-When someone does something for you as a favor, isn't it natural to
-give a little something back, even if you are not legally obligated to
-do so? Isn't it shameless not to give anything back saying that you
-are not legally obligated to do so? And the amount needed by OSS
-developers should be small enough compared to what those companies
-usually spend on other deals. Curiously, there seems to be a tendency
-to understate labor costs that have already been agreed to be paid and
-to overstate new costs that will be incurred and paid externally.
+Isn't it shameless not to give anything back saying that they are not
+legally obligated to do so? And the amount needed by OSS developers
+should be small enough compared to what those companies usually spend
+on other deals. Curiously, there seems to be a tendency to understate
+labor costs that have already been agreed to be paid and to overstate
+new costs that will be incurred and paid externally.
 
 The problem of developer "burnout" becomes a problem because there is
 still commercial value in the software. If the software has no value
@@ -114,8 +112,9 @@ to the project as a matter of morality. And I expect companies to
 create and follow such a code of conduct.
 
 Don't worry. You and companies will not be banned from this project
-for violation. Violation may make the company less important in the
-project, though.
+for violation. The only thing that would happen is that the opinions
+of shameless companies will no longer be respected as it becomes
+visible which companies are shameless.
 
 
 ## Positioning and purpose of these guidelines
@@ -126,13 +125,12 @@ to facilitate the promotion and operation of the project. These
 guidelines are not a set of rules, and no penalties or other
 consequences for violations are set forth in this guideline. Each
 member may completely disregard these guidelines if he/she wishes. To
-explain a little more for those who still feel uneasy about this, we
-recognize that if you are only using the products of this project, it
-does not mean that you are participating in the community, and you do
-not need to concern yourself with these community guidelines at all.
-In addition, there is no provision in the software distribution
-license that prohibits removal of these guidelines in derivative
-projects.
+explain a little more for those who still feel uneasy, if you are just
+using the software and not making a profit, there is nothing wrong
+with not contributing to the project. Furthermore, since there is no
+provision in the software distribution license prohibiting the removal
+of these guidelines in a derivative project, you can always fork the
+project to remove the guidelines if you don't like them.
 
 The primary purpose of establishing these guidelines is to encourage
 companies that make commercial use of OSS or free software to create
