@@ -71,91 +71,111 @@ In fact, there are OSS projects that oppose the introduction of such a
 code of conduct, and some strong opponents explicitly choose "No Code
 of Conduct" for their projects [1][3].
 
-I also have the following concerns in introducing a code of conduct to
-my project.
+I have the following concerns in introducing a code of conduct to my
+project.
 
-* Criteria for identifying violations are not clearly stated.
-* The purpose of presenting such a code is not clearly stated.
-* The only thing the maintainer can do is to ban violators, which is
-  not much of a deterrent to violations.
-* It has a patternalistic nature, and the idea of secretly telling the
-  maintainer about the victimization and asking the maintainer to
-  resolve it seems terribly childish.
-  * Maintainers are not the parents of the project members.
-  * Most OSS project maintainers are not experts in resolving disputes
-    between individuals.
-  * There is no guarantee that the maintainers will side with the
-    victimized party.
-* These codes make the maintainers bear the cost of ensuring the
-  diversity of the community.
-  * If the person alleging victimization secretly consults with the
-    maintainer, it is often not easy for the maintainer to respond to
-    that consultation.
-    * If the claim of victimization is not valid, the maintainer needs
-      to convince the person of this.
-    * If the maintainer inadvertently chooses wrong words, or even if
-      everything is handled properly, the maintainer could also be
-      accused of being a perpetrator.
-    * In some cases, such as when the person suffers from mental
-      illness, professional expertise is required in order to provide
-      appropriate consultation. It is not easy for an untrained
-      maintainer to notice mental illness, but the maintainer may
-      still need to take responsibility for any problems that arise as
-      a result of the consultation.
-  * Maintainers have no incentive to take the time to resolve disputes
-    between individuals.
+
+### Maintainers are not in a position to punish project members
+
+The most important thing is that the basic human rights of each member
+are guaranteed. From the standpoint of guaranteeing freedom of speech,
+it is rather better not to have rules or anything like that
+restricting speech in non-project related venues. The project should
+not impose private penalties for offensive comments made by members on
+social networking sites that are not related to the project. Even if a
+member's non-project-related behavior has been found by an official
+agency to be illegal, whether the project should take any action in
+response is a matter for careful deliberation. It is the role of the
+authorities to punish members for illegal behavior, not the project
+maintainers, unless the authorities ask the maintainers to do
+something specific. The only thing that members of the project,
+including the maintainers, should do is to preserve evidence and to
+report any ongoing illegal activity related to the project to the
+public authorities.
+
+Banning a member in a project should be done out of necessity in order
+to defend the project, not to punish the member. Maintainers are not
+there to punish members. The idea of secretly telling the maintainer
+about the victimization and asking the maintainer to resolve it seems
+terribly childish. Maintainers are not the parents of the project
+members.
+
+
+### Maintainers are not experts in resolving disputes between individuals
+
+The resolution of disputes between individuals is often a very
+sensitive matter. It is a difficult task just to simply make factual
+determinations in cases of suspected illegal activity, and OSS project
+maintainers are typically not trained to do such things.
+
+When the person alleging victimization secretly consults with the
+maintainer, it is often not easy for the maintainer to respond to that
+consultation. For example, if the claim of victimization is not valid,
+the maintainer needs to convince the consulter of this. In this
+process, if the maintainer chooses wrong words, or even if everything
+is handled properly, the maintainer could also be accused of being a
+perpetrator.
+
+Professional expertise is required in some cases to provide
+appropriate consultation, such as when a patient suffers from a mental
+illness. It is not easy for an untrained maintainer to notice mental
+illness, but the maintainer may still need to take responsibility for
+any problems that arise as a result of the consultation.
+
+We should be well aware that people with excellent specialized skills
+are novices in fields other than their own. Even in major media
+outlets, there are cases where people with specialized skills comment
+on issues outside their field of expertise. This is very
+disappointing, and comments on issues outside of one's expertise are
+often misguided. The correct professional response would be to refuse
+to comment on issues outside of one's expertise. It also goes without
+saying that we should not ask people with great expertise to do work
+that is outside their expertise. Thus, it is not appropriate to name
+untrained maintainers as a consultation contact, but rather, it should
+be clearly stated that maintainers are not a consultation contact.
+
+Maintainers have no incentive to take the time to resolve disputes
+between individuals. The existing codes make the maintainers bear the
+cost of ensuring the diversity of the community. It is hard to imagine
+that forcing the maintainer to deal with the difficult problem of
+resolving disputes between individuals without paying any compensation
+would work. If a project member believes that he or she has been
+victimized, he or she should not expect the project's consultation
+service to function properly, but should seek an official contact
+outside the project. Also, if a project truly values the diversity of
+its members, it would be more constructive to promote the
+establishment of a consultation service for OSS projects by an
+organization that can be trusted to some extent. There is no guarantee
+that fair decisions will be made in such services, but if trained
+experts are consulted, better results can be expected than relying on
+novice maintainers. And to hire such experts, funds need to be raised.
+
+
+### Criteria for identifying violations are not clearly stated
+
+There is no guarantee that the maintainers will side with the
+victimized party. If some rules contain penal provisions with
+ambiguous criteria for violation, such provisions can be arbitrarily
+administered by decision makers simply to impose private penalties on
+members they don't like. And that is often a reality. To avoid
+arbitrary enforcement of rules, the criteria for violation need to be
+objective.
+
+
+### The only thing maintainers can do is to ban violators, which is not much of a deterrent to violations
 
 Even if the code of conduct can restrict some actions of members, it
 is only on the web pages related to the project. The mere maintainers
 of an OSS project do not have the authority to tell project
 participants what to or not to say on social networking sites
-unrelated to the project. It is a difficult task to just simply make
-factual determinations in cases of suspected illegal activity, and OSS
-project maintainers are typically not trained to do such things.
+unrelated to the project. 
 
-The project should not impose private penalties for offensive comments
-made by members on social networking sites that are not related to the
-project. Even if a member's non-project-related behavior has been
-found by an official agency to be illegal, whether the project should
-take any action in response is a matter for careful deliberation. It
-is the role of the authorities to punish members for illegal behavior,
-not the project maintainers, unless the authorities ask the
-maintainers to do something specific. The only thing that members of
-the project, including the maintainers, should do is to preserve
-evidence and to report any ongoing illegal activity related to the
-project to the public authorities.
+If the violator participates in a project using pseudonyms, it is easy
+for the violator to return to the project pretending to be a new
+participant after being banned from the project. This has happened
+countless times in the past. The "consequences" of banning violators
+sounds just ridiculous.
 
-If some rules contain penal provisions with ambiguous criteria for
-violation, such provisions can be arbitrarily administered by decision
-makers simply to impose private penalties on members they don't
-like. And that is often a reality. To avoid arbitrary enforcement of
-rules, the criteria for violation need to be objective.
-
-From the standpoint of guaranteeing freedom of speech, it is rather
-better not to have rules or anything like that restricting speech in
-non-project related venues. Maintainers are not there to punish
-members. Banning a member in a project should be done out of necessity
-in order to defend the project, not to punish the member. If a project
-member believes that he or she has been victimized, he or she should
-not expect the project's consultation service to function properly,
-but should seek an official contact outside the project. Also, if a
-project truly values the diversity of its members, it would be more
-constructive to promote the establishment of a consultation service
-for OSS projects by an organization that can be trusted to some
-extent. There is no guarantee that fair decisions will be made in such
-services, but if trained experts are consulted, better results can be
-expected than relying on novice maintainers. And to hire such experts,
-funds need to be raised.
-
-Even in major media outlets, there are cases where people with
-specialized skills comment on issues outside their field of
-expertise. However, we should be well aware that people with excellent
-specialized skills are novices in fields other than their
-own. Furthermore, we should not ask people with excellent specialized
-skills to do work outside of their field of expertise. It is not
-appropriate to name untrained and unpaid maintainers as a consultation
-contact, but rather, it should be clearly stated that maintainers are
-not a consultation contact.
 
 Frankly, I cannot help but be surprised that so many prominent OSS
 projects have already adopted such codes of conduct that are ambiguous
