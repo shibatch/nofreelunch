@@ -10,6 +10,8 @@ This document is licensed under [CC BY-SA 4.0](https://creativecommons.org/licen
 
 ## Preface
 
+### Free-riding and the burnout problem of OSS developers
+
 First of all, I would like to start by explaining a few economic
 concepts. Suppose you have paid to buy a hamburger. Then, of course,
 that hamburger is yours and you have all the right to decide what to
@@ -46,6 +48,9 @@ maintenance must continue to be supplied from somewhere. Needless to
 say, the burden of those costs should not be placed on the developers
 and maintainers.
 
+
+### Lack of funds is not the cause of the problem
+
 The problem of developer "burnout" becomes a problem because there is
 still commercial value in the software. If the software has no value
 anymore, it would not be called "burnout." In such a case, the project
@@ -74,6 +79,9 @@ the face of the developer and the software is only information and not
 substance. However, there are real people involved in the development
 and maintenance of the software, and real resources are committed for
 this purpose.
+
+
+### Noncommercial license does not solve the problem
 
 Some may argue that if that is the case, then I should just make the
 license noncommercial. However, if I prohibit commercial use, even if
@@ -117,6 +125,9 @@ on their own to find companies that use their software and ask them
 for donations. This structure of the problem is the same as the
 tragedy of the commons. A license that prohibits commercial use does
 not solve this problem.
+
+
+### Code of conduct comes to rescue
 
 To begin with, the general public only understands that OSS is
 software that can be used for free, and there is no recognition that
@@ -166,6 +177,9 @@ project. This assumes, of course, that participants do not lie. You
 can find out if each participant represents one of the companies by
 simply asking him or her.
 
+
+### How our guidelines work
+
 Our guidelines use the nature of the code of conduct described above
 to discourage free-riding on OSS projects. Since a code of conduct
 defines desirable and undesirable behaviors of project participants,
@@ -209,7 +223,7 @@ itself can be started easily, and minor violations can be
 tolerated. In addition, companies can decide the budget for their
 contribution to OSS projects on their own discretion. This would mean,
 at first glance, that companies could continue to free-ride without
-worrying about the guidlines by silently continuing to use the
+worrying about the guidelines by silently continuing to use the
 software without having their employees participate in the
 project. However, for companies that use OSS extensively, not being
 involved in the projects at all would cause various practical
@@ -217,7 +231,7 @@ disadvantages. In addition, if the status of OSS use and contribution
 to the project by each company becomes clear, the existence of large
 OSS user companies that continue to free-ride in silence will
 naturally emerge. This also means that only companies that use OSS on
-a large scale will be substantially affected by our guidlines. This
+a large scale will be substantially affected by our guidelines. This
 has the added benefit of expanding the use of OSS by supporting
 companies that use OSS on a small scale. Rather than going around
 pointing out every minor violation, we can expect to bring long-term
@@ -383,7 +397,7 @@ and smooth discussions.
 * Project members should not leave it up to the project maintainers to
   resolve the problems.
   * The relationship between the maintainers and the other members is
-    not that of parents and children. The mainteners only have the
+    not that of parents and children. The maintainers only have the
     privileges of the websites related to the project and basically
     what you cannot do is not possible for the maintainers either.
 

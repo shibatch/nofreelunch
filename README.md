@@ -175,7 +175,7 @@ operation are in fact quite common outside of the Internet. However,
 if the maintainers have no intention to make an objective decision
 from the beginning, then everything will ultimately be determined by
 the likes and dislikes of the maintainers. Members other than the
-maintainers have no choice but to trust that the mainteners will make
+maintainers have no choice but to trust that the maintainers will make
 a fair decision, and there is no difference between having rules and
 not having rules.
 
