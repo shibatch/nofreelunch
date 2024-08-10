@@ -15,13 +15,9 @@ code of conduct for OSS projects. The guidelines have the following
 features.
 
 * The guidelines aim to alleviate burnout problems for OSS developers.
-* The guidelines include portions of the existing codes of conduct, but
-  written to be as objective as possible concerning the criteria for
-  identifying violations.
-* Clearly states the positioning, that it is non-binding, and that it
-  does not stipulate penalties for violations.
 * The guidelines are designed to avoid adding new responsibilities to
   the project maintainer.
+* The guidelines are written to be as objective as possible.
 
 
 ## How can I use it in my project?
@@ -244,17 +240,10 @@ no established way to solve it.
 The Community Guidelines for Sustainability of Open-Source Ecosystem
 aim to solve the OSS developers' burnout problem. It sets the goal of
 the project members' efforts to promote the awareness that if a
-company makes a profit from the commercial use of OSS, a portion of
-the profit should be returned to the project. OSS is software that can
-be used free of charge, but obviously it does not prohibit the return
-of profits made through the use of OSS. If it becomes widely
-recognized that companies are natural to return a portion of the
-profits earned from the use of OSS to the projects, and if companies'
-codes of conduct incorporates financial support for OSS projects, we
-can expect to see significant progress toward solving the burnout
-problem. The adoption of the guidelines by a large number of OSS
-projects will make those companies at least aware of the burnout
-problem of OSS developers.
+company makes a profit from the commercial use of OSS, they should
+contribute to relevant projects. The adoption of the guidelines by a
+large number of OSS projects will make the general public at least
+aware of the burnout problem of OSS developers.
 
 
 ## To realize actual profit distribution
@@ -302,34 +291,6 @@ In any case, the first step is to make it commonplace that companies
 that use OSS provide financial support to OSS projects. Then, firms
 that provide the above services would start to emerge.
 
-
-## Conclusion
-
-The Community Guidelines for Sustainability of Open-Source Ecosystem
-are community guidelines aiming to solve the burnout problem of OSS
-developers.
-
-* The guidelines are not legally binding, but are positioned as a soft
-  rule that would be a bit uncool if violated.
-* Adopting these guidelines will make it clear that the project is
-  requesting financial support.
-* By adopting the guidelines, the project can facilitate the creation
-  of an infrastructure for the distribution of funds.
-* The most important point of having these guidelines is that by
-  asking companies whether or not they agree with these guidelines, it
-  is possible to visualize whether or not they intend to continue
-  free-riding on OSS. In other words, if a company that makes
-  commercial use of OSS or free software refuses to adopt these
-  guidelines, it appears to be a declaration of their desire to
-  continue free-riding.
-
-We allow our software to be used free of charge for commercial use and
-make a profit. However, even though our software is available free of
-charge, its cost never goes away; someone has to bear it. The OSS
-ecosystem is built on good will, which cannot be explained just by
-legal restraints or the pursuit of profit. It is shameful for
-companies that make a profit from OSS to ignore such good will and
-pursue only their own benefit by claiming only their legal rights.
 
 
 ## References
