@@ -186,13 +186,10 @@ If the violator participates in a project using pseudonyms, it is easy
 for the violator to return to the project pretending to be a new
 participant after being banned from the project. This has happened
 countless times in the past. The "consequences" of banning violators
-sounds just ridiculous.
-
-Since the document has the ostentatious title of "Code of Conduct," I
-imagined criminal penalties and reparations when I read the word
-"consequences." Nowadays, it is not uncommon to be banned from social
-networking sites for incomprehensible reasons. Since being banned is
-the most you can get, such "consequences" are equivalent to nothing.
+sounds just ridiculous. Nowadays, it is not uncommon to be banned from
+social networking sites for incomprehensible reasons. Since being
+banned is the most you can get, such "consequences" are equivalent to
+nothing.
 
 
 Frankly, I cannot help but be surprised that so many prominent OSS

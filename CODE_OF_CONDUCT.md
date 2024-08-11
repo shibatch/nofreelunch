@@ -299,12 +299,9 @@ The primary purpose of establishing these guidelines is to encourage
 companies that make commercial use of OSS or free software to create
 and adhere to the following code of conduct : if a company is making
 commercial use of OSS or free software, such as bundling it with their
-products for sale, they should provide continuous financial support
-for the project. The members of this project are asked to help raise
-awareness to make this happen. In particular, if you participate in
-this project as a member of a company that makes commercial use of
-this software, we would greatly appreciate your understanding of the
-purpose of these guidelines.
+products for sale, they should make continuous contribution to the
+project. The members of the project are asked to help raise awareness
+to make this happen.
 
 The second purpose is to prevent conflicts among the members. Although
 this project is a software development project, political discussions
