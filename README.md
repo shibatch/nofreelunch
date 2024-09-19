@@ -1,7 +1,7 @@
 
 # Community Guidelines for Sustainability of Open-Source Ecosystem
 
-Version 0.8, 2024-08-??
+Version 0.8, 2024-09-19
 
 Copyright Naoki Shibata 2024.
 
@@ -288,6 +288,69 @@ In any case, the first step is to make it commonplace that companies
 that use OSS provide financial support to OSS projects. Then, firms
 that provide the above services would start to emerge.
 
+
+## Regarding accounting for the payments
+
+If a company provides financial support for a project as a donation,
+various restrictions may arise in some countries.
+
+Here we consider the case where a company does not make a donation to
+a project, but instead enters into an agreement to contract out the
+development to an individual developer. Under this arrangement, the
+company would spend the funds under a category such as "research and
+development expenses." However, the contract would have to be for some
+large, collective modification to the software. In addition, since it
+is not known whether the development will succeed or not in advance,
+it becomes troublesome to make agreements related to the development
+process, such as the establishment of the purpose of development.
+
+One way to avoid this complication is to have the company pay for the
+management and operation of the CI system operated by the project. In
+this method, the maintainers and developers involved in the project
+jointly manage and operate the CI system, and the project requires the
+use of this CI system when committing the code as a project policy.
+In this way, the fee for the use of this CI system can be set up as
+financial support for the project from the company. This usage price
+can be set freely according to the situation, independent of the
+frequency of use of the CI system.
+
+One of the advantages of adopting the method in which companies pay
+for the management and operation of CI systems is that it is clear
+from the beginning that the purpose of paying fees is for the
+management and operation of CI systems, and there are no complications
+in making agreements regarding the implementation of the contract.
+Since there is relatively little need to add value to the CI system by
+newly modifying its functionality, and the benefits to be gained by
+entering into a contract are clear from the start, the contract can be
+simple and straightforward. In addition, unlike methods such as
+selling advertising space on a project's website, it is possible to
+set the price as a discretionary price, and this has the advantage of
+allowing the price to be set freely.
+
+In general, companies tend to avoid signing contracts directly with
+individuals. Therefore, it may be easier for companies to pay usage
+fees for CI systems to some legal entity, and then that entity pays
+the fees to the maintainer and developer. In this scheme, the
+maintainer and developer sign an agreement for the management of the
+CI system with this entity and receive a fee from this entity.
+Alternatively, the maintainer and developer may become employees of
+the entity and receive fees in the form of salaries. This legal entity
+may be a corporation established by the maintainer and
+developer. Services provided by an outside vendor may also be used for
+the payments in this scheme. Depending on the form of the contract,
+default may occur if the management and operation of the CI system is
+not successful. Default will almost never occur if the payment for the
+management and operation of the CI system is made in the form of
+deferred payment after the contract period is over, and the contract
+is renewed every month. In addition, various tax-saving measures can
+be taken with this scheme, but these are not discussed here because
+circumstances differ from country to country.
+
+
+## Acknowledgement
+
+I thank Mr. Eiji Ito for his expertise and assistance in writing this
+document.
 
 
 ## References
