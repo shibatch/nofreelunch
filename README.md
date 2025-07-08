@@ -7,6 +7,8 @@ Copyright Naoki Shibata 2024.
 
 This document is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+&#127909; Watch the Official Introduction Video: [https://youtu.be/OQ8H1mvg7P0](https://youtu.be/OQ8H1mvg7P0)
+
 
 ## What is it?
 
