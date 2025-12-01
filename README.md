@@ -1,6 +1,6 @@
 # Community Guidelines for Sustainability of Open-Source Ecosystem
 
-Version 1.?, 2025-11-30
+Version 1.?, 2025-12-01
 
 Copyright Naoki Shibata 2024-2025.
 
@@ -8,23 +8,24 @@ This document is licensed under [CC BY-SA 4.0](https://creativecommons.org/licen
 
 &#127909; Watch the Official Introduction Video: [https://youtu.be/35zFfdCuBII](https://youtu.be/35zFfdCuBII)
 
-
 ## What is it?
 
 These are non-binding community guidelines intended to be used as a code of conduct for OSS projects. The guidelines have the following features:
 
-* The guidelines aim to alleviate burnout problems for OSS developers.
-* The guidelines are designed to avoid adding new responsibilities to the project maintainer.
-* The guidelines are written to be as objective as possible.
-
+* **Remains entirely within the open-source framework:** It utilizes community norms rather than legal restrictions, ensuring it does not violate the Open Source Definition.
+* **Aims to effectively exclude free-riders:** The explicit goal is to shut out corporate users who derive significant profits from the project's deliverables without bearing their share of maintenance costs.
+* **Can be introduced anytime:** It can be adopted by any project at any stage, regardless of the specific distribution license being used. No relicensing is required.
+* **Alleviates developer burnout:** It addresses the structural causes of sustainability issues.
+* **Low burden on maintainers:** It is designed to be as objective as possible and avoids adding new management responsibilities to the project maintainer.
 
 ## How can I use it in my project?
 
 To adopt this scheme, please copy the following files into your project repository:
 
 1.  **[CODE_OF_CONDUCT.md](https://github.com/shibatch/nofreelunch?tab=coc-ov-file)**: Place this in the root directory.
-2.  **[SUSTAINABILITY.md](https://github.com/shibatch/nofreelunch/blob/main/SUSTAINABILITY.md)**: Place this in the root directory (or `.github` folder).
-3.  **[CONTRIBUTING.md](https://github.com/shibatch/nofreelunch/blob/main/CONTRIBUTING.md)**: Place this in the root directory (or `.github` folder) to be visible during Pull Requests.
+2.  **[SUSTAINABILITY.md](https://github.com/shibatch/nofreelunch/blob/main/SUSTAINABILITY.md)**: Copy this directly into the product's README, immediately following the license notice, or place it in the root directory.
+3.  **[CONTRIBUTING.md](https://github.com/shibatch/nofreelunch/blob/main/CONTRIBUTING.md)**: Place this in the root directory.
+4.  **[PULL_REQUEST_TEMPLATE.md](https://github.com/shibatch/nofreelunch/blob/main/PULL_REQUEST_TEMPLATE.md)**: Place this in `.github` directory to be visible during Pull Requests.
 
 It is distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
