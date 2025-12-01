@@ -28,7 +28,7 @@ To adopt this scheme, please copy the following files into your project reposito
 
 It is distributed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-### The Widening Gap Between FOSS Users and Maintainers
+## The Widening Gap Between FOSS Users and Maintainers
 
 Today, it is commonplace for companies of all sizes to build their products and services on top of Free and Open Source Software (FOSS). Countless components that underpin modern business—databases, operating systems, compilers, encryption libraries, web frameworks—are published under FOSS licenses and can be deployed at virtually zero licensing cost.
 
@@ -38,7 +38,8 @@ From the outside, FOSS may look like an inexhaustible public resource. Once code
 
 At the same time, many companies have built highly profitable products on top of this underfunded infrastructure. While they treat FOSS as a standard part of their technology stack, requests for support are often treated not as regular operating expenses, but as exceptional donations, or are not paid for at all. Many companies using FOSS do not treat FOSS maintainers as standard business partners.
 
-As long as this gap exists—where FOSS is essential to business but there is little investment in the human talent that supports it—the FOSS ecosystem remains fragile. Popular projects receive a high volume of maintenance requests, but maintainers cannot respond to them unpaid indefinitely. Burnout and the sudden abandonment of projects become almost inevitable. Ultimately, the companies and users who have built upon these projects bear the risk.
+As long as this gap exists—where FOSS is essential to business but there is little investment in the human talent that supports it—the FOSS ecosystem remains fragile. Popular projects receive a high volume of maintenance requests, but maintainers cannot respond to them unpaid indefinitely. 
+User companies expect maintainers to provide professional service without paying them anything, but of course maintainers can't survive without pay and have other jobs. Why should maintainers be expected to provide such generous service only to companies that pay them nothing? Burnout and the sudden abandonment of projects become almost inevitable. Ultimately, the companies and users who have built upon these projects bear the risk.
 
 The following sections explain this situation from a business risk perspective and demonstrate why a model that assumes endless free maintenance by upstream FOSS developers is not only unfair but structurally unsound as a business model.
 
@@ -205,7 +206,6 @@ Another key feature of this scheme is that it is independent of any specific sof
 This means a project can adopt this Code of Conduct and associated sustainability scheme regardless of whether its current deliverables are distributed under GPLv3, MIT, Apache-2.0, BSD, or the public domain. No license change is required, and downstream users retain exactly the same legal rights as before. What changes is only the set of publicly stated expectations regarding how commercial beneficiaries are expected to act toward the project and its maintainers.
 
 This license-agnostic nature allows the scheme to be introduced incrementally into many existing projects without forcing users to navigate a landscape of fragmented custom licenses. The legal freedom to use the software remains unified. The social expectation that major beneficiaries should help maintain their dependencies becomes a shared norm layered on top.
-
 
 ## Problems with existing codes of conduct
 
