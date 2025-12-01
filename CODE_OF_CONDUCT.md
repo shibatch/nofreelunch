@@ -1,9 +1,9 @@
 
 # Community Guidelines for Sustainability of Open-Source Ecosystem
 
-Version 1.0.1, 2024-12-29
+Version 2025-12-01
 
-Copyright Naoki Shibata 2024. https://github.com/shibatch/nofreelunch
+Copyright Naoki Shibata 2024-2025. https://github.com/shibatch/nofreelunch
 
 This document is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -365,6 +365,26 @@ asked to take any specific action. What actually matters is the
 attitude of the company to which the member belongs, not the specific
 actions of the member.
 
+These guidelines are also based on a simple principle: maintainers and
+core contributors of FOSS projects are stakeholders in any business
+that depends on their work. Organizations that benefit from the
+commercial use of FOSS should treat upstream maintainers as equal
+business partners, not as invisible, unpaid providers of labor or as
+targets of occasional charity. In practical terms, this means engaging
+with maintainers with the same standards of fairness and
+professionalism that would apply to any other business relationship.
+
+When these guidelines talk about possible consequences for clearly
+departing from the project’s norms, they do not and cannot restrict
+anyone’s legal freedom to use, modify, or redistribute the software as
+granted by the distribution license. What may change instead is
+whether an organization is treated as a responsible participant in the
+project community: whether its requests for maintenance are given
+priority, whether its representatives are welcomed in project spaces,
+and how its behavior is perceived by others. In other words, the
+guidelines concern community standing and reputation, not the
+underlying license rights.
+
 
 ## The guidelines
 
@@ -393,6 +413,14 @@ and smooth discussions.
 * Project members strive to promote awareness of the existence,
   philosophy, purpose, and content of these guidelines to those who
   directly or indirectly use open source or free software.
+
+* Project members strive to promote the awareness that when
+  organizations use open source or free software for commercial
+  purposes, the developers and maintainers of those projects should be
+  treated as equal business partners, not as invisible resources. It
+  is unreasonable to demand from maintainers contractual terms,
+  responsibilities, or risks that the organizations themselves would
+  refuse to accept in a comparable business relationship.
 
 * Project members strive to promote the awareness that it is natural
   for organizations that make a profit from the commercial use of open

@@ -1,6 +1,6 @@
 # Community Guidelines for Sustainability of Open-Source Ecosystem
 
-Version 1.?, 2025-12-01
+Version 2025-12-01
 
 Copyright Naoki Shibata 2024-2025.
 
