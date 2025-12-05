@@ -6,7 +6,9 @@ Copyright Naoki Shibata 2024-2025.
 
 This document is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-&#127909; Watch the Official Introduction Video: [https://youtu.be/35zFfdCuBII](https://youtu.be/35zFfdCuBII)
+Watch the official introduction video for the entire project  : [https://youtu.be/wsh2yKGwK4s](https://youtu.be/wsh2yKGwK4s)
+Watch the official introduction video for the Code of Conduct : [https://youtu.be/35zFfdCuBII](https://youtu.be/35zFfdCuBII)
+
 
 ## What is it?
 
